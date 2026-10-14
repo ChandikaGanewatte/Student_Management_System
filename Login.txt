@@ -1,0 +1,13 @@
+Name : Administrator
+Email: admin@example.com
+Password : ChangeMe123!
+
+Name: Nimal Perera
+Email : nimal@example.com
+Password : Nimal@12345
+
+Project Run:
+php artisan optimize:clear
+php artisan route:list
+php artisan serve
+ 
